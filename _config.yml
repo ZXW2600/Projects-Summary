@@ -4,6 +4,7 @@ relative_links:
   enabled: true
   collections: true
 include:
+  - Letter/**
   - CONTRIBUTING.md
   - README.md
   - LICENSE.md
