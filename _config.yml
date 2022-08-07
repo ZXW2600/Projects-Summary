@@ -1,5 +1,7 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-readme-index
+
 relative_links:
   enabled: true
   collections: true
@@ -14,3 +16,7 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 theme: jekyll-theme-cayman
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false
