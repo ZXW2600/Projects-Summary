@@ -15,7 +15,7 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 readme_index:
   enabled:          true
   remove_originals: false
